@@ -1,6 +1,6 @@
-Travelogram_UI
+FoodApp_UI
 
-A minimal screen design of a travel diary using Flutter.
+Screen design of a Food App Flutter.
 
 Design credit - https://dribbble.com/shots/5137623-Food-App-Homepage-Concept/attachments/1133457
 
