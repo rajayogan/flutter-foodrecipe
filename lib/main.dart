@@ -51,12 +51,12 @@ class _MyHomePageState extends State<MyHomePage> {
             children: <Widget>[
               Container(
                 height: 250.0,
-                color: Color(getColorHexFromStr('#fff5ea')),
+                color: Color(getColorHexFromStr('#ECE7DE')),
               ),
               Column(
                 children: <Widget>[
                   Container(
-                    padding: EdgeInsets.fromLTRB(15.0, 35.0, 15.0, 10.0),
+                    padding: EdgeInsets.fromLTRB(15.0, 60.0, 15.0, 10.0),
                     child: Material(
                       elevation: 10.0,
                       borderRadius: BorderRadius.circular(25.0),
